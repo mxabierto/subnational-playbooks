@@ -7,7 +7,7 @@ atlas_prefix: /srv
 # Backend Settings
 atlas_path: "{{atlas_prefix}}/colombia/"
 atlas_git_version: master
-atlas_git_repo: git@github.com:cid-harvard/colombia.git
+atlas_git_repo: git@github.com:mxabierto/atlas-subnational-api.git
 
 atlas_session_key: kittens
 
